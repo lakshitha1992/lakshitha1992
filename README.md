@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I’m a passionate **full-stack developer** from S
 
 ## 🌟 About Me  
 - 🎖️ **Army Enthusiast**: Inspired by discipline and structure, many of my projects reflect these values.  
-- 💻 **Developer**: Specializing in **PHP**, **MySQL**, **ReactJS**, and responsive web design.  
+- 💻 **Developer**: Specializing in **PHP**, **MySQL**, **ReactJS**, **JavaScript**, and responsive web design.  
 - 🎨 **Creative Coder**: I enjoy blending dynamic animations and clean UI/UX designs into my projects.  
-- 🌍 **Local Innovator**: Focused on tools tailored to Sri Lankan users, like **local email-sharing platforms** and **Sinhala news feeds**.  
+- 🌍 **Local Innovator**: Focused on tools tailored to Sri Lankan users, like **local email-sharing platforms**, **Sinhala news feeds**, and more.  
 
 ---
 
@@ -29,15 +29,44 @@ Here are some highlights of my work:
 5. **User Management System**  
    Dynamic cards, hover animations, and permission management with army-themed styling.
 
+6. **Library Management System**  
+   A full-fledged system to manage books, users, and transactions in a library.
+
+7. **Money Management System**  
+   A financial tracking system for individuals and businesses with budgeting and expense monitoring.
+
+8. **Bookshop System**  
+   A robust system for managing book sales, inventory, and customer records.
+
+9. **Supermarket System**  
+   A system for managing product sales, inventory, and customer information in a supermarket environment.
+
 ---
 
 ## 💡 My Skills  
-- **Languages**: PHP, JavaScript, SQL, ReactJS  
-- **Frameworks & Tools**: Bootstrap, Git, MySQL  
+- **Languages**:  
+  - PHP (80%)  
+  - JavaScript (70%)  
+  - SQL (85%)  
+  - ReactJS (65%)  
+  - HTML/CSS (90%)  
+  - Python (60%)  
+  - Java (50%)  
+
+- **Frameworks & Tools**:  
+  - Bootstrap  
+  - Git  
+  - MySQL  
+  - Photoshop (for UI/UX design)  
+  - Node.js (50%)  
+  - Laravel (60%)
+
 - **Specialties**:  
   - Autocomplete Forms  
   - Dynamic Data Tables  
   - Database Management  
+  - Web Application Security  
+  - Localized Solutions for Sri Lanka  
 
 ---
 
@@ -65,4 +94,4 @@ I’m proud to represent Sri Lanka in the global tech community. Let’s build s
 ## ✨ Fun Fact  
 > "Every line of code is a step toward innovation and simplicity."  
 
-Thank you for visiting! Don’t forget to ⭐ my repositories and connect with me!
+Thank you for visiting! Don’t forget to ⭐ my repositories and connect with me!  
